@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelEspinal
 - 👀 I’m interested in ... Coding, Gaming, Music, Photography
-- 🌱 I’m currently learning ... Game Dev work
+- 🌱 I’m currently learning ... Machine Learning / AI Development
 - 💞️ I’m looking to collaborate on ... anything and everything i can
 - 📫 How to reach me ... samuel.espinal1827@gmail.com
 - ⚡ Fun fact: ... I am ambidextrious 
