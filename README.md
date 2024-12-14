@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Machine Learning / AI Development
 - 💞️ I’m looking to collaborate on ... Anything and Everything I can
 - 📫 How to reach me ... samuel.espinal1827@gmail.com
-- ⚡ Fun fact: ... I am ambidextrious 
+- ⚡ Fun fact: ... I am ambidextrous 
 
 <!---
 SamuelEspinal/SamuelEspinal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
